@@ -1,3 +1,7 @@
 * {
     color: blue;
 }
+
+body {
+    background-color: rgba(255, 127, 80, 0.5);
+}
